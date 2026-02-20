@@ -1,0 +1,8 @@
+# Flask web framework for REST API
+Flask==3.0.0
+
+# Gunicorn production WSGI HTTP server
+gunicorn==21.2.0
+
+# Python-dotenv for environment variable management
+python-dotenv==1.0.0
